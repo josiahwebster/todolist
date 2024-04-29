@@ -2,7 +2,7 @@
         {
             "id": "1",
             "title": "Do the Dishes",
-            "description": "Do it now"
+            "description": "Before 1030AM"
         },
         {
             "id": "2",
@@ -11,8 +11,8 @@
         },
         {
             "id": "3",
-            "title": "Study React",
-            "description": "Study React for 30 minutes"
+            "title": "Go to the gym",
+            "description": "Workout"
         }
     ]
 
